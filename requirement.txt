@@ -1,2 +1,7 @@
-!pip install gradio groq
+streamlit 
+groq 
+google-auth
+google-auth-oauthlib
+google-api-python-clien
+
 
